@@ -13,9 +13,7 @@
 ##
 
 ### 📜 Descrição 
-<p>Projeto Back-end, que trata-se de uma interface com botões e campos de texto que faz uma conexão com um banco de dados interno, nesse banco
-de dados há vários jogadores do time masculino de futebol Liverpool 2023. Nessa interface podemos adicionar, 
-listar, deletar e procurar por jogadores explorando os conceitos de CRUD.
+<p>O Projeto Back-end consiste em uma interface que se conecta a um banco de dados interno contendo informações sobre os jogadores do time masculino de futebol Liverpool 2023. Essa interface oferece recursos para adicionar, listar, deletar e pesquisar jogadores, utilizando os princípios de CRUD.
 
 </p>
 

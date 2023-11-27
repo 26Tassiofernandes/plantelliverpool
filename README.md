@@ -9,27 +9,38 @@
 <img src="https://github.com/26Tassiofernandes/plantelliverpool/assets/86972667/9aed765a-ea41-4316-8923-a9aebae4e595" alt="imagem">
 </div>
 
-
 ##
 
 ### 📜 Descrição 
-<p>O Projeto Back-end consiste em uma interface que se conecta a um banco de dados interno contendo informações sobre os jogadores do time masculino de futebol Liverpool 2023. Essa interface oferece recursos para adicionar, listar, deletar e pesquisar jogadores, utilizando os princípios de CRUD.
 
-</p>
+O Projeto em questão consiste em uma interface que se conecta a um banco de dados contendo informações sobre os jogadores do time masculino de futebol Liverpool. 
+Essa interface oferece recursos para adicionar, listar, deletar e pesquisar jogadores, utilizando os princípios de CRUD.
 
 ##
 
-### 📚 Conceitos tratados nesse projeto
-<p>
+### 📚 Ferramentas e tecnologias tratadas nesse projeto
+
 - tkinter
-- CRUD
-- Banco de dados
 - Figma
-</p>
+- Design
+- Banco de Dados
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### ⚙ Requisitos
+
+- É necessário ter o DB Browser for SQL lite instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário deve clonar o repositório em questão e instalar as recomendações de extensões que sua IDE lhe propuser.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
 
 ##

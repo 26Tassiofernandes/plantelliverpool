@@ -29,7 +29,7 @@ Essa interface oferece recursos para adicionar, listar, deletar e pesquisar joga
 
 ### ⚙ Requisitos
 
-- É necessário ter o DB Browser for SQL lite instalado em sua máquina.
+- É necessário ter o DB Browser for SQL lite instalado em sua máquina. A seguir, segue o link da página oficial do database para download: https://sqlitebrowser.org/dl/
 
 ##
 
